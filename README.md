@@ -20,15 +20,12 @@
 
 ### 💻 Технологии:
 
----
-
-### 🛠 Инструменты:
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 💻 Codewars:
-![codewars](https://www.codewars.com/users/Greezly96/badges/large)
-  
+![codewars](https://www.codewars.com/users/Greezly96/badges/large) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!--
 **EngineersDream1/EngineersDream1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
